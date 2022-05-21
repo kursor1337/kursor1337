@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**kursor1337/kursor1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Computer Science student in Peter the Great St. Petersburg Polytechnic University**
 
-Here are some ideas to get you started:
+**I use Kotlin and Java to write Android applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [ChroniclesOfWW2-kt](https://github.com/kursor1337/ChroniclesOfWW2-kt) project
+- 🌱 I’m currently improving myself in writing **Android** applications
+- 📫 How to reach me: **@kursor1337** on Telegram
+- ⚡ Made a video game for Android -> [**Chronicles Of WWII**](https://github.com/kursor1337/Chronicles-of-WWII)
+
+## Here are some of my projects!
+#### Android video game -> [Chronicles of WWII](https://github.com/kursor1337/Chronicles-of-WWII)
+#### Currently working on Kotlin version of this game -> [Here](https://github.com/kursor1337/ChroniclesOfWW2-kt)
+#### Simple notes app that I've made for myself -> [Notes](https://github.com/kursor1337/Notes)
+#### Budget managment app -> [Budget](https://github.com/kursor1337/Budget)
+
+## Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kursor1337&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kursor1337&theme=dracula)
