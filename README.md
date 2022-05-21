@@ -5,7 +5,7 @@
 **I use Kotlin and Java to write Android applications**
 
 - 🔭 I’m currently working on [ChroniclesOfWW2-kt](https://github.com/kursor1337/ChroniclesOfWW2-kt) project
-- 🌱 I’m currently improving myself in writing **Android** applications
+- 🌱 I’m constantly improving myself in writing **Android** applications
 - 📫 How to reach me: **@kursor1337** on Telegram
 - ⚡ Made a video game for Android -> [**Chronicles Of WWII**](https://github.com/kursor1337/Chronicles-of-WWII)
 
