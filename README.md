@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**ChroniclesOfWW2-kt**](https://github.com/kursor1337/ChroniclesOfWW2-kt) project
 - 🌱 I’m constantly improving myself in writing **Android** applications
-- 📫 How to reach me: **@kursor1337** on Telegram
+- 📫 How to reach me: **skurochkin298@gmail.com**
 - ⚡ Made a video game for Android -> [**Chronicles Of WWII**](https://github.com/kursor1337/Chronicles-of-WWII)
 
 ## Here are some of my projects!
