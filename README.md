@@ -4,7 +4,7 @@
 
 **I use Kotlin and Java to write Android applications**
 
-- 🔭 I currently work in [MobileUp](https://github.com/MobileUpLLC) company
+- 🔭 I currently work in [**MobileUp**](https://github.com/MobileUpLLC) company
 - 🌱 I’m constantly improving myself in writing **Android** applications
 - 📫 How to reach me: **skurochkin298@gmail.com**, [**VK**](https://vk.com/gray_chiken), Telegram: **@kursor1337**
 - ⚡ Made a video game for Android -> [**Chronicles Of WWII**](https://github.com/kursor1337/Chronicles-of-WWII)
